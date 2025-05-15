@@ -6,7 +6,7 @@ import google.generativeai as genai  # Gemini AI
 st.set_page_config(page_title="Medical Emergency Assistance", layout="wide")
 
 # ✅ Enter Your Gemini API Key
-API_KEY = "AIzaSyAJZLxr9aoFRCWrh_0JXU-abaWYSyHjFnA"  # Replace with your actual API key
+API_KEY = ""  # Replace with your actual API key
 
 # ✅ Configure Gemini AI
 if not API_KEY:
