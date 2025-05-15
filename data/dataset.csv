@@ -1,0 +1,56 @@
+Case ID,Emergency Type,Description,Possible Complications,Immediate Response,Resource Links
+1,Choking,Blockage in airway,Asphyxiation,"Perform back blows, chest thrusts",https://example.com/choking
+2,Anaphylaxis,Severe allergic reaction,Breathing difficulty,"Administer epinephrine, call 911",https://example.com/anaphylaxis
+3,Heat Stroke,Overheating,Organ failure,"Move to cool place, hydrate",https://example.com/heatstroke
+4,Fall Injury,Head injury,"Concussion, internal bleeding","Apply ice pack, monitor for symptoms",https://example.com/fall
+5,Stroke,Interrupted blood flow to brain,Paralysis,"Call 911, keep comfortable",https://example.com/stroke
+6,Heart Attack,Blocked blood flow to heart,Cardiac arrest,"Chew aspirin, call 911",https://example.com/heartattack
+7,Burns,Skin tissue damage,Infection,"Cool with water, cover with dressing",https://example.com/burns
+8,Asthma Attack,Airway inflammation,Breathing failure,"Use inhaler, seek medical help",https://example.com/asthma
+9,Seizure,Uncontrolled electrical activity in brain,Brain injury,"Turn person on side, do not restrain",https://example.com/seizure
+10,Drowning,Lack of oxygen,Brain damage,"Perform CPR, call emergency services",https://example.com/drowning
+11,Electrocution,Electric shock,Heart arrhythmia,"Turn off power, perform CPR if needed",https://example.com/electrocution
+12,Food Poisoning,Contaminated food,Dehydration,"Drink fluids, seek medical help",https://example.com/foodpoisoning
+13,Hypothermia,Extreme cold exposure,Organ failure,"Warm person gradually, remove wet clothing",https://example.com/hypothermia
+14,Fracture,Broken bone,Nerve damage,"Immobilize limb, apply cold pack",https://example.com/fracture
+15,Sprain,Ligament tear,Swelling,"Rest, ice, compress, elevate (RICE method)",https://example.com/sprain
+16,Dog Bite,Animal attack,Infection,"Wash wound, apply antibiotic, seek medical help",https://example.com/dogbite
+17,Snake Bite,Venom injection,Paralysis,"Keep still, do not suck venom, seek medical help",https://example.com/snakebite
+18,Allergic Reaction,Immune system response,Rash, swelling,"Take antihistamines, monitor symptoms",https://example.com/allergy
+19,Carbon Monoxide Poisoning,Inhalation of CO gas,Unconsciousness,"Move to fresh air, seek medical help",https://example.com/COpoisoning
+20,Panic Attack,Intense anxiety,Hyperventilation,"Breathe slowly, reassure the person",https://example.com/panicattack
+21,Appendicitis,Inflamed appendix,Rupture,"Seek emergency surgery",https://example.com/appendicitis
+22,Nosebleed,Broken blood vessels,Excessive bleeding,"Tilt head forward, pinch nostrils",https://example.com/nosebleed
+23,Tooth Avulsion,Knocked-out tooth,Nerve damage,"Store in milk, visit dentist",https://example.com/toothavulsion
+24,Eye Injury,Foreign object in eye,Vision loss,"Do not rub, rinse with saline",https://example.com/eyeinjury
+25,Sunburn,UV radiation exposure,Skin peeling,"Apply aloe vera, hydrate",https://example.com/sunburn
+26,Hyperglycemia,High blood sugar,Diabetic coma,"Administer insulin if prescribed, seek help",https://example.com/hyperglycemia
+27,Hypoglycemia,Low blood sugar,Seizures,"Give sugary drink, monitor symptoms",https://example.com/hypoglycemia
+28,Migraine,Severe headache,Vomiting,"Rest in dark room, take pain relievers",https://example.com/migraine
+29,Gas Leak Poisoning,Inhalation of toxic gas,Unconsciousness,"Evacuate area, call emergency services",https://example.com/gasleak
+30,Drug Overdose,Excessive medication intake,Respiratory failure,"Call 911, administer naloxone if available",https://example.com/overdose
+31,Shock,Inadequate blood flow,Organ failure,"Lie person down, keep warm",https://example.com/shock
+32,Puncture Wound,Deep skin penetration,Tetanus,"Wash wound, apply pressure",https://example.com/puncture
+33,Dehydration,Lack of fluids,Weakness,"Drink water, use oral rehydration salts",https://example.com/dehydration
+34,Food Choking,Blocked airway,Asphyxiation,"Perform Heimlich maneuver",https://example.com/foodchoking
+35,Vertigo,Inner ear imbalance,Falls,"Sit down, focus on steady object",https://example.com/vertigo
+36,Acid Burn,Chemical exposure,Skin corrosion,"Rinse with water, seek medical help",https://example.com/acidburn
+37,Hypoxia,Oxygen deprivation,Brain damage,"Provide oxygen, seek medical help",https://example.com/hypoxia
+38,Animal Attack,Bites and scratches,Infection,"Clean wound, get rabies shot if needed",https://example.com/animalattack
+39,Insect Sting,Venom injection,Allergic reaction,"Apply ice, take antihistamine",https://example.com/insectsting
+40,Dislocation,Bone out of joint,Nerve damage,"Immobilize, seek medical help",https://example.com/dislocation
+41,Dental Abscess,Infected tooth,Spreading infection,"Take antibiotics, visit dentist",https://example.com/dentalabscess
+42,Frostbite,Extreme cold exposure,Tissue death,"Gradually warm, do not rub skin",https://example.com/frostbite
+43,Tetanus,Clostridium infection,Muscle spasms,"Seek tetanus shot",https://example.com/tetanus
+44,Head Trauma,Blunt force injury,Concussion,"Monitor for dizziness, seek medical help",https://example.com/headtrauma
+45,Kidney Stones,Calcium buildup in kidneys,Severe pain,"Drink water, seek medical evaluation",https://example.com/kidneystones
+46,Internal Bleeding,Trauma-related bleeding,Organ failure,"Seek emergency medical care",https://example.com/internalbleeding
+47,Scalding,Hot liquid burn,Blistering,"Cool with water, apply sterile dressing",https://example.com/scalding
+48,Torn Ligament,Severe sprain,Joint instability,"Immobilize, apply cold pack",https://example.com/tornligament
+49,Blood Clot,Blocked blood vessel,Stroke risk,"Seek emergency care",https://example.com/bloodclot
+50,Concussion,Brain impact,Memory loss,"Rest, avoid screen time",https://example.com/concussion
+51,Heavy Bleeding,Severe blood loss,Shock,"Apply direct pressure, elevate",https://example.com/heavybleeding
+52,Collapsed Lung,Air in chest cavity,Breathing difficulty,"Seek emergency medical care",https://example.com/collapsedlung
+53,Poisoning,Toxic substance intake,Organ failure,"Call poison control, do not induce vomiting",https://example.com/poisoning
+54,Rabies,Viral infection from animal bite,Neurological damage,"Seek rabies vaccination",https://example.com/rabies
+55,Joint Pain,Inflammation,Arthritis,"Rest, apply ice",https://example.com/jointpain
